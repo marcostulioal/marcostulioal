@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou Marcos Tulio Alves
 - 🌱 Atualmente estou aprendendo HTML, CSS e JavaScript
-- 💞️ Gostaria de colabora com a comunidade de desenvolvedores de todo o mundo
+- 💞️ Gostaria de colaborar com a comunidade de desenvolvedores de todo o mundo
 - 📫 Me encntre no [Linkedin] (https://www.linkedin.com/in/marcos-tulio-alves110396/) e no [Instagran] (instagram.com/marcostulioal/)
 
 <!---
