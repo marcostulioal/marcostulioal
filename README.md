@@ -4,8 +4,8 @@
 
 Olá, eu sou Marcos Tulio! Estou em uma jornada de aprendizado no mundo do desenvolvimento. Atualmente, estou focado em aprimorar minhas habilidades no desenvolvimento FullStack e estou explorando tecnologias como Java.
 
-- 🌱 Atualmente estou aprendendo Java + Angular
-- 📚 Estou cursando Análise e Desenvolvimento de Sistemas.
+- 🌱 Atualmente estou aprendendo Java
+- 📚Cursando Análise e Desenvolvimento de Sistemas.
 - 💬 Conhecimento em HTML, CSS, Git e GitHub.
 
 ## Habilidades
@@ -18,15 +18,6 @@ Olá, eu sou Marcos Tulio! Estou em uma jornada de aprendizado no mundo do desen
 ## Estatísticas
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=marcostulioal&show_icons=true)
-
-## Desafios de Projeto na Digital Innovation One
-
-- [Desafio de Projeto](Contribuindo em um Projeto Open Source no GitHub)
-
-## Artigos na Plataforma
-
-- [Minha Jornada no Bootcamp](https://web.dio.me/users/marcostulioav?tab=skills)
-- [Explorando Tecnologias Full-stack](https://web.dio.me/track/bf7abb82-1324-4074-9949-f474a1a911fe)
 
 ## Contato
 
