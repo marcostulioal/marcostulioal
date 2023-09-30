@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Olá, eu sou Marcos Tulio! Estou em uma jornada de aprendizado no mundo do desenvolvimento. Atualmente, estou focado em aprimorar minhas habilidades no desenvolvimento FullStack e estou explorando tecnologias como Java.
+Olá, eu sou Marcos Tulio! Estou em uma jornada de aprendizado no mundo do desenvolvimento. Atualmente, estou focado em aprimorar minhas habilidades, explorando tecnologias como Java.
 
 - 🌱 Atualmente estou aprendendo Java
 - 📚Cursando Análise e Desenvolvimento de Sistemas.
