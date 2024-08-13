@@ -4,7 +4,6 @@
 
 Olá, eu sou Marcos Tulio! Estou em uma jornada de aprendizado no mundo do desenvolvimento. Atualmente, estou focado em aprimorar minhas habilidades, explorando tecnologias como Java.
 
-- 🌱 Atualmente estou aprendendo Java
 - 📚Cursando Análise e Desenvolvimento de Sistemas.
 - 💬 Conhecimento em HTML, CSS, Git e GitHub.
 
